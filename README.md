@@ -1,5 +1,7 @@
 # Classic Tic-Tac-Toe Game (also called X and O)
 
+**Have fun!** 🚀
+
 ## Overview
 
 ### Screenshot
@@ -16,4 +18,4 @@
 
 - Website - [mehdihadizadeh.ir](https://mehdihadizadeh.ir/)
 
-**Have fun building!** 🚀
+
